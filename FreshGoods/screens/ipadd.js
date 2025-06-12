@@ -1,0 +1,1 @@
+export const IPADD = "192.168.236.187";
